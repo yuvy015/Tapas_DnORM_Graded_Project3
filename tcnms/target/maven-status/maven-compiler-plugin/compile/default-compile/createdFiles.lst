@@ -1,0 +1,7 @@
+com\greatlearning\tcnms\service\impl\TicketServiceImpl.class
+com\greatlearning\tcnms\service\TicketService.class
+com\greatlearning\tcnms\entity\Ticket.class
+com\greatlearning\tcnms\repository\TicketRepository.class
+com\greatlearning\tcnms\controller\TicketController.class
+com\greatlearning\tcnms\controller\WelcomeController.class
+com\greatlearning\tcnms\TcnmsApplication.class
